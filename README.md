@@ -1,6 +1,6 @@
 # Table of Contents
 
-# student_marks :
+student_marks :
 This student_marks is problem topic and data set from the Kaggle website, by the user yasserh.
 
 
